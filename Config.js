@@ -3,7 +3,7 @@ global.settings = {
     OWNER_NAME: 'Ayomi', // desired name
     BOT_NAME: "Ayomi", // desired name
     VERSION: 'V1.0.0',
-    SESSION_ID: 'kord_ai-67403082ee9686480073fb57', //put your session id between ''
+    SESSION_ID: 'kord_ai-6740a8c9396749c5ab89c206', //put your session id between ''
     MONGO_DB_URL: 'mongodb+srv://miracle32669:Iyanu1234@cluster0.m7glm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
     WORK_MODE: "Public",
     TIME_ZONE: "Africa/Lagos",
