@@ -1,7 +1,7 @@
 // hey there, kindly read this file till the end for better configuration
 
 global.settings = {
-  OWNER_NUMBERS: "234816024734", // your number with country code
+  OWNER_NUMBERS: "2348160247341", // your number with country code
   OWNER_NAME: 'AYOMI', // your owner name 
   BOT_NAME: "KORD", // your preferred bot name
   SESSION_ID: 'kord_ai-6740a8c9396749c5ab89c206', // put your session id between the ''
